@@ -2,7 +2,7 @@
 
 This repository contains various implementations and experiments related to **Blind Source Separation (BSS)** and other signal processing techniques. These projects aim to solve different signal processing and estimation problems using advanced mathematical and computational methods.
 
-### Topics Covered:
+### Topics :
 
 1. **Solving BSS Problem Using Geometric Interpretation**  
    - This project tackles the Blind Source Separation (BSS) problem using geometric interpretation methods for source extraction and separation.

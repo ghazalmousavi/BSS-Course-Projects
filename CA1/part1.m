@@ -23,7 +23,7 @@ Beta = mixture_function(x1, x2);
 error = mse(Beta, A);
 disp(['MSE:', num2str(error)]);
 
-%% 2. Adding Noise to Observation:
+%% 2. Adding Noise to Observation
 noise = 0.1*randn(1, T);
 noisy_x1 = x1 + noise;
 noisy_x2 = x2 + noise;
@@ -54,8 +54,6 @@ h2.EdgeColor = [0, 0, 0];
 h2.LineWidth = 2;
 
 title('Histogram of x_2', 'FontSize', 12, 'FontName', 'Times', 'FontWeight', 'bold', 'Color', 'black');
-
-
 
 %% Functions:
 

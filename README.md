@@ -53,7 +53,7 @@ This repository contains various implementations and experiments related to **Bl
 ### **Final Project: Motor Imagery Classification**
    - Classified **four movement types**: right arm, right thumb, right foot, and no movement.  
    - Applied **Common Spatial Patterns (CSP)** for feature extraction.  
-   - Performed **training**, **validation**, and **testing** using machine learning classifiers.  
+   - Performed **training**, **validation**, and **testing** using LDA classifiers.  
 
 
 

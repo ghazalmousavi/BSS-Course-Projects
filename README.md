@@ -2,7 +2,7 @@
 
 This repository contains various implementations and experiments related to **Blind Source Separation (BSS)** and other signal processing techniques. These projects aim to solve different signal processing and estimation problems using advanced mathematical and computational methods.
 
-### Topics :
+### Projects :
 
 1. **Solving BSS Problem Using Geometric Interpretation**  
    - This project tackles the Blind Source Separation (BSS) problem using geometric interpretation methods for source extraction and separation.
@@ -23,12 +23,12 @@ This repository contains various implementations and experiments related to **Bl
 5. **Common Spatial Pattern (CSP) and Canonical Correlation Analysis (CCA)**  
    - Implementing **CSP** and **CCA** techniques to solve Brain-Computer Interface (BCI) problems by analyzing EEG data for optimal feature extraction.
 
-6. **Uncorrelated and Non-Stationary Sources with Mutually Correlated Components** 
+6. **Uncorrelated, Non-Stationary, and Mutually Correlated Sources** 
    - Implemented **Joint Diagonalization algorithms** to separate and analyze correlated non-stationary sources.
 
 7. **Sparse Recovery Problems** 
    - Implemented several sparse recovery algorithms including:  
-      - Subset Selection**  
+      - Subset Selection  
       - Matching Pursuit (MP) 
       - Orthogonal Matching Pursuit (OMP)
       - Basis Pursuit (BP)
